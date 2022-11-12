@@ -1,0 +1,24 @@
+.done{
+    text-decoration: line-through;
+}
+div li{
+    display: inline;
+}
+.colour1 ,.colour2{
+    /* position: fixed; */
+    position: relative;
+    left: 75vw;
+}
+body{
+    background: linear-gradient(to right,#ff0000,#ffff00);
+}
+ul div li{
+    color: white;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+.container{
+    text-align: center;
+}
